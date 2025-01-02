@@ -11,7 +11,7 @@ These are files containing the Fortran examples for the book:
 ! Wollongong, NSW, Australia
 
 Each example is in a compressed format "*.tar.gz" created on a linux system
-and each has its own README file on how to comiple and run the example
+and each has its own README file on how to compile and run the example
 on your own platform.
 
 Changes may be necessary for the compile, Makefile, and run scripts.
