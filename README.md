@@ -44,3 +44,16 @@ README file acompanying each example.
 If any of these examples are used in any derivative works the source
 must be acknowledged with a suitable citation of this book and the code
 origin.
+
+FOOTNOTE ON THE FOLWING FORTRAN EXAMPLES:
+STER
+The original Fortran code has gone missing after many moves since the 1970's.
+The search will continue and if not found the code will be reconstructed.
+Stay tuned ...
+
+SPARSE
+This is recent code is a parallel model. A serial version will be provided
+in a small package after extraction from a larger environmental/climate model.
+Stay tuned ...
+
+F
