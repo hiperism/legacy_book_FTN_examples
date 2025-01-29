@@ -1,6 +1,6 @@
 # legacy_book_FTN_examples
 Fortran Examples for the Guide to Numerical Algorithm Design and Development
-(01-27-2025)
+(01-29-2025)
 
 These are files containing the Fortran examples for the book:
 
@@ -53,7 +53,7 @@ The search will continue and if not found the code will be reconstructed.
 Stay tuned ...
 
 SPARSE:
-This is recent code is a parallel model. A serial version will be provided
+This is recent code in a parallel model. A serial version will be provided
 in a small package after extraction from a larger environmental/climate model.
 Stay tuned ...
 
