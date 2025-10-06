@@ -47,10 +47,7 @@ origin.
 
 FOOTNOTE ON THE FOLLOWING FORTRAN EXAMPLES:
 
-STER:
-The original Fortran code has gone missing after many moves since the 1970's.
-The search will continue and if not found the code will be reconstructed.
-Stay tuned ...
+STIR:Look at the PDF of report IKDA 73/8 to find the definitions of the coefficients in the output file
 
 SPARSE:
 This is recent code in a parallel model. A serial version will be provided
